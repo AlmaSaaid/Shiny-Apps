@@ -1,0 +1,29 @@
+**Introduction**
+The Demographic Profile apps is simply an apps that is prepared on the visibility of Gender and Age distribution.
+You can enjoy viewing the distributions with accordance to gender and age selected.
+
+**Background**
+The Apps is provided with minimal widgets to serve its purpose only. The data used for building the apps is gathered from UCI database on 
+dataset called Adult data. The left sidebar consists of:
+1. Gender selection (tick box) - to select your choice
+2. Age selection (slider) - to set the minimum and maximum range of age
+3. Submit button - to submit your selection to be processed/calculated by the apps.
+
+**The instruction**
+
+1. The left sidebar consist of:
+ i. Gender selection: 
+      You can tick either one OR both.
+ ii. Age selection is by range
+      Minimum age: choose your minimum range of age
+      Maximum age: choose your mazimum range of age
+ Note: Please be caution, if your minimum age < maximum age, you will get this error message:
+       "Error: need finite 'ylim' values" 
+       - displayed in red font at Gender distribution panel
+       - no chart is displayed (only the empty frame)
+ iii. "Check it out!" button: 
+      Always hit  this button whenever you change your selection. Forgetting this will result of no change in the distribution displayed.
+      
+      
+ **End note**
+ Do enjoy using this simple of apps of mine ya!
